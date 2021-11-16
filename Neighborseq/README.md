@@ -6,7 +6,7 @@
 <!-- badges: end -->
 The spatial context of cells in a tissue and their resulting cell-cell communications influence numerous processes, including cellular differentiation, organ development and homeostasis, and immune interactions in disease. Neighbor-seq is an R package designed to infer the architecture of direct cell-cell interactions from standard single-cell RNA sequencing (scRNA-seq) data. Cell aggregates (multiplets) naturally arise in scRNA-seq experiments when two or more cells are captured in the same reaction droplet, and they typically represent at least several percent of all capture events. Neighbor-seq reconstructs physical cell-cell interactions by identifying, annotating, and analyzing cell multiplets from the undissociated cell fractions in scRNA-seq data.
 
-![Figure 1A. A schematic representation of the Neighbor-seq workflow](/Users/bassel/Neighborseq/Figure%201A.png)
+![Figure 1A. A schematic representation of the Neighbor-seq workflow](Figure%201A.png)
 
 ## Installation
 
